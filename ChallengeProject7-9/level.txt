@@ -1,0 +1,6 @@
+orange
+grape
+goat
+monkey
+tiger
+lion

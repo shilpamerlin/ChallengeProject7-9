@@ -13,6 +13,7 @@
 		8D25501226043149008A6802 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D25501026043149008A6802 /* Main.storyboard */; };
 		8D2550142604314D008A6802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D2550132604314D008A6802 /* Assets.xcassets */; };
 		8D2550172604314D008A6802 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D2550152604314D008A6802 /* LaunchScreen.storyboard */; };
+		8D25502026050A91008A6802 /* level.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8D25501F26050A91008A6802 /* level.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8D2550132604314D008A6802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D2550162604314D008A6802 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D2550182604314D008A6802 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D25501F26050A91008A6802 /* level.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		8D25500926043149008A6802 /* ChallengeProject7-9 */ = {
 			isa = PBXGroup;
 			children = (
+				8D25501F26050A91008A6802 /* level.txt */,
 				8D25500A26043149008A6802 /* AppDelegate.swift */,
 				8D25500C26043149008A6802 /* SceneDelegate.swift */,
 				8D25500E26043149008A6802 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				8D2550172604314D008A6802 /* LaunchScreen.storyboard in Resources */,
 				8D2550142604314D008A6802 /* Assets.xcassets in Resources */,
 				8D25501226043149008A6802 /* Main.storyboard in Resources */,
+				8D25502026050A91008A6802 /* level.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
